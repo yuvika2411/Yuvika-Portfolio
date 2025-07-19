@@ -128,7 +128,7 @@ export default function BlogsSection() {
       <div className="max-w-6xl mx-auto relative z-10">
         <div className="text-center mb-20">
           <h1 className="text-4xl lg:text-5xl font-bold text-gray-900 mb-6">
-              Blogs
+              Certifications
             </h1>
           <div className="w-24 h-1 bg-gradient-to-r from-blue-500 to-purple-500 mx-auto rounded-full"></div>
         </div>
