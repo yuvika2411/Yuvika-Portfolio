@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from "react"
 
-// Import all certificate images
+
 import ideatexImg from "../assets/ideatex.jpg"
 import sihImg from "../assets/sih.png"
 import pearsImg from "../assets/pears.jpg"
