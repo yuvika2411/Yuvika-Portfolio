@@ -8,7 +8,7 @@ import Projects from './components/Projects';
 import Experience from './components/Experience';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
-import Blogs from './components/Blogs';
+import Certifications from './components/Certifications';
 
 function App() {
   return (
