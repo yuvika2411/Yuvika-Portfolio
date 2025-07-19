@@ -116,7 +116,7 @@ export default function BlogsSection() {
   ]
 
   return (
-    <section id="blogs">
+    <section id="certifications">
     <div className="bg-white min-h-screen py-16 px-4 relative overflow-hidden">
       {/* Grid Background */}
       <div className="absolute inset-0 bg-grid-gray-900/[0.04] bg-[size:40px_40px]" />
