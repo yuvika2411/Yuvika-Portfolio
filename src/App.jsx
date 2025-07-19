@@ -21,7 +21,7 @@ function App() {
         <Education />
         <Skills />
         <Projects />
-        <Blogs/>
+        <Certifications/>
         <Contact />
       </main>
       <Footer />
